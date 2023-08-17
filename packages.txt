@@ -1,4 +1,0 @@
-streamlit
-langchain
-pandas
-numpy
