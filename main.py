@@ -44,7 +44,7 @@ with st.form("my_form"):
     # textarea
     text = st.text_area(
         "Tell us the subject that you want to generate names for:",
-        "My daughter",
+        "My dog",
     )
 
     # submit button
